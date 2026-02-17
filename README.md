@@ -55,7 +55,8 @@ when his guide offers great assistance in every step of the way but please refer
 ---
 
 ## 📸 Build Gallery
-*(Insert photos of your GL.iNet build here)*
+
+![Network Topology Diagram](./photos/pineapple.jpg)
 
 ---
 
