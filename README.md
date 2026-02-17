@@ -1,6 +1,10 @@
 # 🛠️ My DIY Wi-Fi Shadowapple Build
 
-**Topics:** [#WiFi-Pineapple](https://github.com/topics/wifi-pineapple) | [#Shadowapple](https://github.com/topics/shadowapple) | [#Penetration-Testing](https://github.com/topics/penetration-testing) | [#GL-iNet](https://github.com/topics/gl-inet) | [#OpenWrt](https://github.com/topics/openwrt) | [#Network-Security](https://github.com/topics/network-security) | [#Ethical-Hacking](https://github.com/topics/ethical-hacking)
+![Device](https://img.shields.io/badge/Device-GL.iNet%20AR300M16--Ext-blue?logo=gl.inet&logoColor=white)
+![Firmware](https://img.shields.io/badge/Firmware-OpenWrt%20%7C%20Pineapple-orange?logo=openwrt&logoColor=white)
+![Network](https://img.shields.io/badge/Network-2.4GHz%20Auditing-lightgrey)
+![Scope](https://img.shields.io/badge/Scope-Wireless%20Pentesting-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
