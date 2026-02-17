@@ -4,7 +4,7 @@
 ![Firmware](https://img.shields.io/badge/Firmware-OpenWrt%20%7C%20Pineapple-orange?logo=openwrt&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-2.4GHz%20Auditing-lightgrey)
 ![Scope](https://img.shields.io/badge/Scope-Wireless%20Pentesting-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 ---
 
@@ -36,7 +36,8 @@ The **Shadow** (AR300M) is ideal for this build because of its Atheros chipset c
 ---
 
 ## 📚 Resources & Guides
-I followed the comprehensive guides by **Shuriken Hacks** to complete this build. For setup instructions and firmware downloads, refer to the following sources:
+I followed the comprehensive guides by **Shuriken Hacks** to complete this build. For setup instructions and firmware downloads. Im not going to show how to build it
+when his guide offers great assistance in every step of the way but please refer to the following sources:
 
 * **Video Guide:** [The ULTIMATE $33 DIY Wi-Fi Pineapple — Shadowapple [Pt. III]](https://www.youtube.com/watch?v=67sGUzKJ8IU)
 * **Previous Hardware Mods:** [Upgrading for MAX Hackability [Pt. II]](https://www.youtube.com/watch?v=pHtpso21P0o)
@@ -59,4 +60,4 @@ I followed the comprehensive guides by **Shuriken Hacks** to complete this build
 ---
 
 ## ⚖️ Disclaimer for Dummies
-Video education purpose only. I no responsible if you go jail this information and links.
+educationonal purposes only. I no responsible if you go jail if you use this information and links in any manor.
